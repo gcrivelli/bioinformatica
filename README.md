@@ -13,7 +13,7 @@ Tener instalador:
 
 Al ingresar al contendor, van a estar logeados con el usuario `root`. 
 Al ejecutar los archivos, van a quedar con permisos de root, y por lo tanto el volumen va a mapear el usuario root a la pc Host.
-Asi que, luego de ejecutar archivos o editar, correr el siguiente comando: chown -R 1000:1000 `/opt/Ejercicios/`
+Asi que, luego de ejecutar archivos o editar, correr el siguiente comando: `chown -R 1000:1000 /opt/Ejercicios/`
 
 ## Ejercicios
 
