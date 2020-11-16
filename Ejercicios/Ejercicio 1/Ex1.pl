@@ -1,3 +1,5 @@
+use warnings;
+use strict;
 use Bio::SeqIO;
 
 $seqio_obj = Bio::SeqIO->new(-file => "INS-IGF2.gb", 

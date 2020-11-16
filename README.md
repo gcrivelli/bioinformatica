@@ -23,5 +23,3 @@ Asi que, luego de ejecutar archivos o editar, correr el siguiente comando: `chow
 
 ### Ejercicio 2
 
-`makeblastdb -in swissprot -dbtype nucl`
-
