@@ -6,7 +6,9 @@ opendir DIR,$dir;
 my @dir = readdir(DIR);
 close DIR;
 
-system("makeblastdb", "-in", "swissprot", "-dbtype", "prot", "-out", "resultado.out");
+if(0) {
+    system("makeblastdb", "-in", "swissprot", "-dbtype", "prot", "-out", "resultado.out");
+}
 
 foreach(@dir){
     if (-f $dir . "/" . $_ ){
