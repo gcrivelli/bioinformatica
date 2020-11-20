@@ -13,7 +13,9 @@ RUN apt-get update \
         perl \
         expat \
         libexpat1-dev \
-        bioperl
+        bioperl \
+        clustalo \
+        emboss
 
 COPY Ejercicios /opt/Ejercicios/
 WORKDIR /opt/Ejercicios/
