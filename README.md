@@ -34,6 +34,8 @@ Luego, en la carpeta input se deben guardar los archivos fasta a procesar, y eje
 
 ### Ejercicio 4
 
+Este ejercicio se puede ejecutar pasando parámetros de entrada al archivo para buscar los hits de una Bacteria en particular.
+
 `pecl Ex4.pl Pantoea`
 
 ### Ejercicio 5
