@@ -19,7 +19,10 @@ Asi que, luego de ejecutar archivos o editar, correr el siguiente comando: `chow
 
 ### Ejercicio 1
 
-`pecl ext1.pl`
+`pecl ex1.pl`
 
 ### Ejercicio 2
 
+### Ejercicio 4
+
+`pecl ex4.pl Pantoea`
