@@ -19,10 +19,23 @@ Asi que, luego de ejecutar archivos o editar, correr el siguiente comando: `chow
 
 ### Ejercicio 1
 
-`pecl ex1.pl`
+`pecl Ex1.pl`
 
 ### Ejercicio 2
 
+Para realizar este ejercicio, es necesario descargar el archivo [Swissprot](ftp://ftp.ncbi.nlm.nih.gov/blast/db/FASTA/swissprot.gz).
+Luego, en la carpeta input se deben guardar los archivos fasta a procesar, y ejecutar:
+
+`pecl Ex2.pl`
+
+### Ejercicio 3
+
+`pecl Ex3.pl`
+
 ### Ejercicio 4
 
-`pecl ex4.pl Pantoea`
+`pecl Ex4.pl Pantoea`
+
+### Ejercicio 5
+
+`perl Ex5.pl` 

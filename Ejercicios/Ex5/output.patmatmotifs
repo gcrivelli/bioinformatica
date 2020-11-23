@@ -1,0 +1,26 @@
+########################################
+# Program: patmatmotifs
+# Rundate: Mon 23 Nov 2020 15:56:45
+# Commandline: patmatmotifs
+#    -sequence outputORF.fasta
+#    -outfile output.patmatmotifs
+#    -full
+#    -sdbname1 prosite.dat
+# Report_format: dbmotif
+# Report_file: output.patmatmotifs
+########################################
+
+#=======================================
+#
+# Sequence: _1     from: 1   to: 46
+# HitCount: 0
+#
+# Full: Yes
+# Prune: Yes
+# Data_file: /usr/share/EMBOSS/data/PROSITE/prosite.lines
+#
+#=======================================
+
+
+#---------------------------------------
+#---------------------------------------
