@@ -17,6 +17,8 @@ Asi que, luego de ejecutar archivos o editar, correr el siguiente comando: `chow
 
 ## Ejercicios
 
+Para ejecutar los archivos, es necesario ubicarse en la carpeta correspondiente a cada ejercicio y ejecutarlo desde ahi.
+
 ### Ejercicio 1
 
 `pecl Ex1.pl`
@@ -35,8 +37,12 @@ Luego, en la carpeta input se deben guardar los archivos fasta a procesar, y eje
 ### Ejercicio 4
 
 Este ejercicio se puede ejecutar pasando parámetros de entrada al archivo para buscar los hits de una Bacteria en particular.
+En caso de no pasar ningun argumento, muestra todos los hits.
 
-`pecl Ex4.pl Pantoea`
+Buscar un hit en particular: `pecl Ex4.pl Pantoea`
+Buscar todos los hits: `pecl Ex4.pl`
+
+Resultado: `output.fasta`
 
 ### Ejercicio 5
 
