@@ -1,9 +1,6 @@
 use strict;
 use warnings;
 
-system("rm outputORF.fasta");
-system("rm output.patmatmotifs");
+system("sixpack", "-sequence", "alzheimer.fasta", "-outseq", "result", "-reverse", "Y", "-outfile", "rfsOutput.txt");
 
-system("getorf", "-sequence", "../Ex1/INS-IGF2.fasta", "-outseq", "outputORF.fasta");
-
-system("patmatmotifs", "-sequence", "outputORF.fasta", "-outfile", "output.patmatmotifs", "-full", "-sdbname1", "prosite.dat");
+system("patmatmotifs", "-sequence", "../Ex1/sequenceOutput.fasta", "-outfile", "output.patmatmotifs", "-full");

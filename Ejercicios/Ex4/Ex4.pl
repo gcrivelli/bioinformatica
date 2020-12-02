@@ -2,7 +2,6 @@ use strict;
 use warnings;
 use Bio::SeqIO;
 use Bio::SearchIO;
-use Data::Dumper qw(Dumper);
 
 my $dir = "../Ex2/outputs";
 opendir DIR, $dir;

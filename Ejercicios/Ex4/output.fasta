@@ -1,10 +1,50 @@
 Hits que coinciden 
 
-Query: NG_050578.1 Hit: RecName: Full=Ice nucleation protein InaU [Pantoea ananatis]	400	35
-Query: NG_050578.1 Hit: RecName: Full=Ice nucleation protein InaA [Pantoea ananatis]	424	34.4339622641509
-Query: NG_007114.1 Hit: RecName: Full=Ice nucleation protein InaU [Pantoea ananatis]	457	33.9168490153173
-Query: NG_007114.1 Hit: RecName: Full=Ice nucleation protein InaU [Pantoea ananatis]	487	33.4702258726899
-Query: NG_007114.1 Hit: RecName: Full=Ice nucleation protein InaU [Pantoea ananatis]	202	36.6336633663366
-Query: NG_007114.1 Hit: RecName: Full=Ice nucleation protein InaA [Pantoea ananatis]	481	33.4719334719335
-Query: NG_007114.1 Hit: RecName: Full=Ice nucleation protein InaA [Pantoea ananatis]	212	35.8490566037736
-Query: NG_007114.1 Hit: RecName: Full=Ice nucleation protein InaA [Pantoea ananatis]	422	33.175355450237
+Query: Secuencia Hit: RecName: Full=Apolipoprotein E; Short=Apo-E; Flags: Precursor [Homo sapiens]	317	100
+Query: Secuencia Hit: RecName: Full=Apolipoprotein E; Short=Apo-E; Flags: Precursor [Pongo pygmaeus]	317	97.4763406940063
+Query: Secuencia Hit: RecName: Full=Apolipoprotein E; Short=Apo-E; Flags: Precursor [Gorilla gorilla gorilla]	317	97.4763406940063
+Query: Secuencia Hit: RecName: Full=Apolipoprotein E; Short=Apo-E; Flags: Precursor [Pan troglodytes]	317	97.1608832807571
+Query: Secuencia Hit: RecName: Full=Apolipoprotein E; Short=Apo-E; Flags: Precursor [Hylobates lar]	317	96.8454258675079
+Query: Secuencia Hit: RecName: Full=Apolipoprotein E; Short=Apo-E; Flags: Precursor [Rhinopithecus roxellana]	317	95.583596214511
+Query: Secuencia Hit: RecName: Full=Apolipoprotein E; Short=Apo-E; Flags: Precursor [Colobus guereza]	317	95.2681388012618
+Query: Secuencia Hit: RecName: Full=Apolipoprotein E; Short=Apo-E; Flags: Precursor [Papio anubis]P0DKY2.1 RecName: Full=Apolipoprotein E; Short=Apo-E; Flags: Precursor[Papio hamadryas]	317	94.006309148265
+Query: Secuencia Hit: RecName: Full=Apolipoprotein E; Short=Apo-E; Flags: Precursor [Theropithecus gelada]	317	93.6908517350158
+Query: Secuencia Hit: RecName: Full=Apolipoprotein E; Short=Apo-E; Flags: Precursor [Macaca nemestrina]	317	93.6908517350158
+Query: Secuencia Hit: RecName: Full=Apolipoprotein E; Short=Apo-E; Flags: Precursor [Plecturocebus moloch]	320	92.1875
+Query: Secuencia Hit: RecName: Full=Apolipoprotein E; Short=Apo-E; Flags: Precursor [Chlorocebus sabaeus]	323	92.2600619195046
+Query: Secuencia Hit: RecName: Full=Apolipoprotein E; Short=Apo-E; Flags: Precursor [Macaca fascicularis]	317	93.3753943217666
+Query: Secuencia Hit: RecName: Full=Apolipoprotein E; Short=Apo-E; Flags: Precursor [Saimiri boliviensis boliviensis]	320	90.625
+Query: Secuencia Hit: RecName: Full=Apolipoprotein E; Short=Apo-E; Flags: Precursor [Cebus capucinus]	320	90
+Query: Secuencia Hit: RecName: Full=Apolipoprotein E; Short=Apo-E; Flags: Precursor [Ateles geoffroyi]	322	89.1304347826087
+Query: Secuencia Hit: RecName: Full=Apolipoprotein E; Short=Apo-E; Flags: Precursor [Macaca mulatta]	320	80.3125
+Query: Secuencia Hit: RecName: Full=Apolipoprotein E; Short=Apo-E; Flags: Precursor [Tupaia glis]	317	78.5488958990536
+Query: Secuencia Hit: RecName: Full=Apolipoprotein E; Short=Apo-E; Flags: Precursor [Aotus nancymaae]	319	73.6677115987461
+Query: Secuencia Hit: RecName: Full=Apolipoprotein E; Short=Apo-E; Flags: Precursor [Lipotes vexillifer]	320	73.75
+Query: Secuencia Hit: RecName: Full=Apolipoprotein E; Short=Apo-E; Flags: Precursor [Physeter catodon]	320	73.4375
+Query: Secuencia Hit: RecName: Full=Apolipoprotein E; Short=Apo-E; Flags: Precursor [Orcinus orca]	319	73.6677115987461
+Query: Secuencia Hit: RecName: Full=Apolipoprotein E; Short=Apo-E; Flags: Precursor [Camelus dromedarius]	320	73.4375
+Query: Secuencia Hit: RecName: Full=Apolipoprotein E; Short=Apo-E; Flags: Precursor [Oryctolagus cuniculus]	317	74.1324921135647
+Query: Secuencia Hit: RecName: Full=Apolipoprotein E; Short=Apo-E; Flags: Precursor [Tursiops truncatus]	320	72.5
+Query: Secuencia Hit: RecName: Full=Apolipoprotein E; Short=Apo-E; Flags: Precursor [Balaenoptera acutorostrata scammoni]	320	72.5
+Query: Secuencia Hit: RecName: Full=Apolipoprotein E; Short=Apo-E; Flags: Precursor [Bos taurus]	317	71.9242902208202
+Query: Secuencia Hit: RecName: Full=Apolipoprotein E; Short=Apo-E; Flags: Precursor [Bos grunniens]	317	71.9242902208202
+Query: Secuencia Hit: RecName: Full=Apolipoprotein E; Short=Apo-E; Flags: Precursor [Sus scrofa]	320	69.6875
+Query: Secuencia Hit: RecName: Full=Apolipoprotein E; Short=Apo-E; Flags: Precursor [Mus musculus]	318	71.0691823899371
+Query: Secuencia Hit: RecName: Full=Apolipoprotein E; Short=Apo-E; Flags: Precursor [Eumetopias jubatus]Q7M2U7.1 RecName: Full=Apolipoprotein E; Short=Apo-E; Flags: Precursor[Zalophus californianus]	325	71.0769230769231
+Query: Secuencia Hit: RecName: Full=Apolipoprotein E; Short=Apo-E; Flags: Precursor [Arctocephalus gazella]	325	71.0769230769231
+Query: Secuencia Hit: RecName: Full=Apolipoprotein E; Short=Apo-E; Flags: Precursor [Neomonachus schauinslandi]	329	69.3009118541033
+Query: Secuencia Hit: RecName: Full=Apolipoprotein E; Short=Apo-E; Flags: Precursor [Ovis aries musimon]	317	70.3470031545741
+Query: Secuencia Hit: RecName: Full=Apolipoprotein E; Short=Apo-E; Flags: Precursor [Cavia porcellus]	310	70
+Query: Secuencia Hit: RecName: Full=Apolipoprotein E; Short=Apo-E; Flags: Precursor [Capra aegagrus]	317	70.3470031545741
+Query: Secuencia Hit: RecName: Full=Apolipoprotein E; Short=Apo-E; Flags: Precursor [Ovis aries]	317	70.0315457413249
+Query: Secuencia Hit: RecName: Full=Apolipoprotein E; Short=Apo-E; Flags: Precursor [Canis lupus familiaris]	319	69.9059561128527
+Query: Secuencia Hit: RecName: Full=Apolipoprotein E; Short=Apo-E; Flags: Precursor [Rattus norvegicus]	319	69.9059561128527
+Query: Secuencia Hit: RecName: Full=Apolipoprotein E; Short=Apo-E; Flags: Precursor [Acinonyx jubatus]	313	70.6070287539936
+Query: Secuencia Hit: RecName: Full=Apolipoprotein E; Short=Apo-E [Saimiri sciureus]	83	91.566265060241
+Query: Secuencia Hit: RecName: Full=Apolipoprotein E; Short=Apo-E; Flags: Precursor [Alligator mississippiensis]	301	28.5714285714286
+Query: Secuencia Hit: RecName: Full=Apolipoprotein Eb; Short=Apo-Eb; Flags: Precursor [Danio rerio]	311	27.0096463022508
+Query: Secuencia Hit: RecName: Full=Apolipoprotein A-IV; Short=Apo-AIV; Short=ApoA-IV; AltName: Full=Apolipoprotein A4; Flags: Precursor [Macaca fascicularis]	262	21.3740458015267
+Query: Secuencia Hit: RecName: Full=Apolipoprotein A-IV; Short=Apo-AIV; Short=ApoA-IV; AltName: Full=Apolipoprotein A4; Flags: Precursor [Papio anubis]	259	23.1660231660232
+Query: Secuencia Hit: RecName: Full=Apolipoprotein A-IV; Short=Apo-AIV; Short=ApoA-IV; AltName: Full=Apolipoprotein A4; Flags: Precursor [Homo sapiens]	246	21.5447154471545
+Query: Secuencia Hit: RecName: Full=Apolipoprotein A-IV; Short=Apo-AIV; Short=ApoA-IV; AltName: Full=Apolipoprotein A4; Flags: Precursor [Bos taurus]	253	24.1106719367589
+Query: Secuencia Hit: RecName: Full=Apolipoprotein A-IV; Short=Apo-AIV; Short=ApoA-IV; AltName: Full=Apolipoprotein A4; Flags: Precursor [Sus scrofa]	251	20.7171314741036
