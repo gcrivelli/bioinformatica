@@ -17,6 +17,8 @@ RUN apt-get update \
         clustalo \
         emboss
 
+RUN cpan Bio::Tools::Run::RemoteBlast
+
 COPY Ejercicios /opt/Ejercicios/
 WORKDIR /opt/Ejercicios/
 
